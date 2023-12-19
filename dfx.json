@@ -1,7 +1,7 @@
 {
   "canisters": {
     "counter_backend": {
-      "main": "src/counter_backend/main.mo",
+      "main": "src/counter_backend/increment_counter.mo",
       "type": "motoko"
     },
     "counter_frontend": {
